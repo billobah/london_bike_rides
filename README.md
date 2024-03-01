@@ -4,7 +4,7 @@ London Bikes use Analysis
 
 # Acknowledgement
 
-First, let me give the credit to *Mo Chen* who made and explained this project from his youtube count: https://www.youtube.com/watch?v=nl9eZl1IOKI.
+First, let me give the credit to **Mo Chen** who created and explained this project from his youtube count: https://www.youtube.com/watch?v=nl9eZl1IOKI.
 
 # 1. Using Python to clean the data
 
